@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAD_23012531046_PRACTICAL3</string>
+    <string name="user_full_name">User Full Name :</string>
+    <string name="confirm_npassword">Confirm\nPassword :</string>
+    <string name="password">Password :</string>
+    <string name="enter_mail">Enter Mail</string>
+    <string name="email">Email :</string>
+    <string name="enter_city">Enter City</string>
+    <string name="city">City :</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="gunilogo">Gunilogo</string>
+    <string name="login">LOGIN</string>
+    <string name="do_you_have_an_account">do you have an account?</string>
+
+</resources>
